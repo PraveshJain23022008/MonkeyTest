@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "monkey-chunky-app",
+    "slug": "snack-ff0160c8-27c8-4d24-b340-45cd7a9e92f5",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
